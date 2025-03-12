@@ -1,1 +1,3 @@
 # darkdynamic
+
+**ACKNOWLEDGEMENTS**
