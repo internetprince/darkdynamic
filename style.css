@@ -1,13 +1,17 @@
-@media (orientation: landscape)
-{
+@media (orientation: landscape) {
 
 
 }
  
 
 
-@media (orientation: portrait)
-{
+@media (orientation: portrait) {
 
+
+}
+
+
+html {
+font-size: 100%;
 
 }
