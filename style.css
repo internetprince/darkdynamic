@@ -17,7 +17,11 @@ display: none;
 }
 
 html {
-font-size: 100%;
+    font-size: 100%;
 
+}
+
+.mobileTabs {
+    display: inherit;
 }
 
