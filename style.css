@@ -75,3 +75,11 @@ display: flex;
     color: white;
     background-color: black;
 }
+
+header.about {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid white;
+    text-align: center;
+}
