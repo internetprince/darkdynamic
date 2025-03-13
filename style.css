@@ -10,12 +10,12 @@
 
 }
 
+@media (prefers-reduced-motion){
+
+}
 
 html {
 font-size: 100%;
 
 }
 
-@media (prefers-reduced-motion){
-
-}
