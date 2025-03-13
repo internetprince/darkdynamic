@@ -67,3 +67,11 @@ header.welcome {
 display: flex;
 
 }
+
+ .about {
+    box-sizing: border-box;
+    border: 3px solid white;
+    border-radius: 2px;
+    color: white;
+    background-color: black;
+}
