@@ -36,3 +36,12 @@ html {
     border: 3px solid white;
     border-radius: 2px;
 }
+
+header.welcome {
+    
+}
+
+.mainContent {
+display: flex;
+
+}
