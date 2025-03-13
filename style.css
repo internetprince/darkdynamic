@@ -30,6 +30,8 @@ html {
 }
 
 .mobileNavCat {
+    position: relative;
+    display: inline-block;
     
 }
 
@@ -39,10 +41,17 @@ html {
 
 .mobileNavPages {
     display: none;
+    position: absolute;
 
 }
 
 a.mobileNavPages {
     display: block;
+    color: white;
 
+}
+
+.mobileNavCat:hover .mobileNavPages {
+    display: block;
+    
 }
