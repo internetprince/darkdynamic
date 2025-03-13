@@ -60,6 +60,7 @@ header.welcome {
     border-left: none;
     border-right: none;
     border-bottom: 3px solid white;
+    box-sizing: border-box;
     text-align: center;
 }
 
@@ -77,6 +78,7 @@ display: flex;
 }
 
 header.about {
+    box-sizing: border-box;
     border-top: none;
     border-left: none;
     border-right: none;
@@ -85,11 +87,13 @@ header.about {
 }
 
 section.top {
-    width: 110vw;
+    box-sizing: border-box;
+    width: 100vw;
 
 }
 
 header.top {
+    box-sizing: border-box;
     width: 100%;
     padding: 10vw;
     font-family: "Blaka";
