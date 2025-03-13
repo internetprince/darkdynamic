@@ -42,7 +42,9 @@ html {
 }
 
 .mobileNavButton {
-
+    border: none;
+    background-color: purple;
+    color: white;
 }
 
 .mobileNavPages {
