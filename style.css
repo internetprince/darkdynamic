@@ -46,7 +46,6 @@ html {
 
 }
 
-
 .welcome {
     box-sizing: border-box;
     border: 3px solid white;
@@ -75,6 +74,12 @@ display: flex;
     border-radius: 2px;
     color: white;
     background-color: black;
+}
+
+div.about {
+    box-sizing: border-box;
+    margin-top: 2em;
+    
 }
 
 header.about {
