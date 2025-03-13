@@ -38,6 +38,8 @@ html {
 .mobileNavCat {
     position: relative;
     display: inline-block;
+    float: left;
+    overflow: hidden;
     
 }
 
