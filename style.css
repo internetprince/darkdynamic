@@ -86,11 +86,12 @@ header.about {
 
 section.top {
     width: 110vw;
-    padding: 10vw;
 
 }
 
 header.top {
+    width: 100%;
+    padding: 10vw;
     font-family: "Blaka";
     text-align: center;
     color: white;
