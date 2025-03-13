@@ -59,6 +59,7 @@ header.welcome {
     border-left: none;
     border-right: none;
     border-bottom: 3px solid white;
+    text-align: center;
 }
 
 .mainContent {
