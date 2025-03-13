@@ -93,14 +93,13 @@ header.about {
 
 section.top {
     box-sizing: border-box;
-    width: 100vw;
+    width: 100%;
 
 }
 
 header.top {
     box-sizing: border-box;
     width: 100%;
-    padding: 10vw;
     font-family: "Blaka";
     text-align: center;
     background-color: black;
