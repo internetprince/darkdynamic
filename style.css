@@ -29,8 +29,10 @@ html {
     flex-direction: row;
 }
 
-.mobileNavTabs {
+.mobileNavTab {
     display: inherit;
+    box-sizing: border-box;
+    background-color: blue;
 }
 
 .mobileNavCat {
