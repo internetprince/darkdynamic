@@ -38,7 +38,10 @@ html {
 }
 
 header.welcome {
-    
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid white;
 }
 
 .mainContent {
