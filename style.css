@@ -21,6 +21,10 @@ html {
 
 }
 
+.mobileNavigation {
+    
+}
+
 .mobileNavTabs {
     display: inherit;
 }
@@ -30,6 +34,11 @@ html {
 }
 
 .mobileNavPages {
+    display: none;
 
 }
 
+a.mobileNavPages {
+    display: block;
+
+}
