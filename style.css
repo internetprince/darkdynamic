@@ -31,56 +31,6 @@ html {
 
 }
 
-.mobileNavigation {
-    box-sizing: border-box;
-    background-color: red;
-    width: 100vw;
-    display: flex;
-    flex-direction: row;
-    overflow: hidden;
-    text-align: center;
-}
-
-.mobileNavTab {
-    display: inherit;
-    box-sizing: border-box;
-    background-color: blue;
-}
-
-.mobileNavCat {
-    position: relative;
-    display: inline-block;
-    float: left;
-    overflow: hidden;
-    margin: 0;
-}
-
-.mobileNavButton {
-    border: none;
-    background-color: purple;
-    color: white;
-    margin: 0;
-}
-
-.mobileNavPages {
-    display: none;
-    position: absolute;
-    width: 100%;
-    z-index: 1;
-}
-
-a.mobileNavPages {
-    display: block;
-    color: green;
-    float: none:
-    text-align: center;
-
-}
-
-.mobileNavCat:hover .mobileNavPages {
-    display: block;
-    
-}
 
 .welcome {
     box-sizing: border-box;
