@@ -42,24 +42,28 @@ html {
     display: inline-block;
     float: left;
     overflow: hidden;
-    
+    margin: 0;
 }
 
 .mobileNavButton {
     border: none;
     background-color: purple;
     color: white;
+    margin: 0;
 }
 
 .mobileNavPages {
     display: none;
     position: absolute;
+    width: 100%;
     z-index: 1;
 }
 
 a.mobileNavPages {
     display: block;
     color: green;
+    float: none:
+    text-align: center;
 
 }
 
