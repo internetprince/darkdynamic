@@ -28,6 +28,7 @@ html {
     display: flex;
     flex-direction: row;
     overflow: hidden;
+    text-align: center;
 }
 
 .mobileNavTab {
