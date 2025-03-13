@@ -108,4 +108,5 @@ header.top {
     font-size: 3rem;
     background-size: contain;
     background-repeat: no-repeat;
+    background-position: left;
 }
