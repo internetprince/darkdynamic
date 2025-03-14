@@ -52,6 +52,7 @@ html {
     border-radius: 2px;
     color: white;
     background-color: black;
+    grid-area: welcome;
 }
 
 header.welcome {
@@ -74,6 +75,7 @@ display: flex;
     border-radius: 2px;
     color: white;
     background-color: black;
+    grid-area: about;
 }
 
 div.about {
@@ -117,6 +119,7 @@ header.top {
     border-radius: 2px;
     color: white;
     background-color: black;
+    grid-area: links;
 }
 
 div.links {
