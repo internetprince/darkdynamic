@@ -118,3 +118,8 @@ header.top {
     color: white;
     background-color: black;
 }
+
+div.links {
+    box-sizing: border-box;
+    margin-top: 2em;
+}
