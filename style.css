@@ -28,7 +28,7 @@ https://files.strawcdn.com/straw/cqkbumzSKByCQSCUNVRa.png
 @media (orientation: portrait) {
 
 .mainContent{
-    flex-direction: column;
+
 }
 
 }
@@ -65,7 +65,7 @@ header.welcome {
 }
 
 .mainContent {
-display: flex;
+display: grid;
 
 }
 
