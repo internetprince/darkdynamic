@@ -110,3 +110,11 @@ header.top {
     background-position: left;
     background-image: url("https://file.garden/Z9NesCn881IguicE/GIF_statuetears_large.gif");
 }
+
+.links {
+    box-sizing: border-box;
+    border: 3px solid white;
+    border-radius: 2px;
+    color: white;
+    background-color: black;
+}
