@@ -107,7 +107,7 @@ p {
     grid-area: about;
 }
 
-img.about {
+.about img {
     box-sizing: border-box;
     aspect-ratio: 1/1;
     
