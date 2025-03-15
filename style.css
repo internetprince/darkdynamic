@@ -116,6 +116,7 @@ p {
     border-right: none;
     border-bottom: 3px solid white;
     box-sizing: border-box;
+    width: 100%;
     text-align: center;
     font-family:"Kelly Slab";
 }
@@ -143,6 +144,7 @@ div.about {
 }
 
 #aboutContainer {
+    box-sizing: border-box;
     width: 100%;
     height: 100%;
     display: flex;
