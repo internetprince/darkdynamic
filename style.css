@@ -54,6 +54,23 @@ html {
 
 }
 
+
+.top {
+    box-sizing: border-box;
+    width: 100%;
+    grid-area: top;
+    font-family: "Blaka";
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 3rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-image: url("https://file.garden/Z9NesCn881IguicE/GIF_statuetears_large.gif");
+}
+
+
 .welcome {
     box-sizing: border-box;
     border: 3px solid white;
@@ -98,21 +115,6 @@ header.about {
     border-right: none;
     border-bottom: 3px solid white;
     text-align: center;
-}
-
-.top {
-    box-sizing: border-box;
-    width: 100%;
-    grid-area: top;
-    font-family: "Blaka";
-    text-align: center;
-    background-color: black;
-    color: white;
-    font-size: 3rem;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: left;
-    background-image: url("https://file.garden/Z9NesCn881IguicE/GIF_statuetears_large.gif");
 }
 
 .links {
