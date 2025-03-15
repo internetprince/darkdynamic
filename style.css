@@ -108,7 +108,8 @@ p {
 }
 
 img.about {
-    
+    box-sizing: border-box;
+    aspect-ratio: 1/1;
     
 }
 
