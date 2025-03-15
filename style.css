@@ -67,10 +67,12 @@ p {
 .top {
     box-sizing: border-box;
     width: 100%;
+    min-height: 3rem;
     max-height: 100%;
     grid-area: top;
     font-family: "Blaka";
     text-align: center;
+    justify-content: center;
     background-color: black;
     color: white;
     font-size: 3rem;
