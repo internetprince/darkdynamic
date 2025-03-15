@@ -94,6 +94,7 @@ p {
     color: white;
     background-color: black;
     grid-area: welcome;
+    height: auto;
 }
 
 .welcome header, .about header, .links header {
