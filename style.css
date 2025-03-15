@@ -151,6 +151,11 @@ div.about {
     align-items: center;
 }
 
+#bio {
+    font-size: .9rem;
+    
+}
+
 
 .links {
     box-sizing: border-box;
