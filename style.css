@@ -35,11 +35,11 @@ https://file.garden/Z9NesCn881IguicE/GIF_monitorcolorsquare.gif
 
 .mainContent {
     grid-template-areas:
-        "top top"
-        "welcome welcome"
-        "about links";
+        "top top top"
+        "about welcome welcome"
+        "about links links";
     grid-template-rows: 1fr 100% 1fr;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     column-gap: 1em;
     row-gap: 1em;
 
