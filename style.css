@@ -37,7 +37,7 @@ https://file.garden/Z9NesCn881IguicE/GIF_monitorcolorsquare.gif
         grid-template-areas:
             "top top top"
             "about welcome welcome"
-            "about links links";
+            ". links links";
         grid-template-rows: 1fr min-content 1fr;
         grid-template-columns: 1fr 1fr 1fr;
         column-gap: 1em;
