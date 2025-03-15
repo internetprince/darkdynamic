@@ -54,6 +54,11 @@ html {
 
 }
 
+.mainContent {
+    display: grid;
+    width: 100%;
+
+}
 
 .top {
     box-sizing: border-box;
@@ -87,11 +92,6 @@ header.welcome {
     border-bottom: 3px solid white;
     box-sizing: border-box;
     text-align: center;
-}
-
-.mainContent {
-display: grid;
-
 }
 
 .about {
