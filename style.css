@@ -138,6 +138,10 @@ div.about {
     
 }
 
+#aboutContainer {
+    background-color: navy;
+}
+
 
 .links {
     box-sizing: border-box;
