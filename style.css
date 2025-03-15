@@ -73,7 +73,7 @@ p {
 .top {
     box-sizing: border-box;
     width: 100%;
-    min-height: 4rem;
+    min-height: 5rem;
     grid-area: top;
     font-family: "Blaka";
     text-align: center;
