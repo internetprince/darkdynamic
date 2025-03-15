@@ -27,7 +27,7 @@ https://files.strawcdn.com/straw/cqkbumzSKByCQSCUNVRa.png
 
 @media (orientation: portrait) {
 
-.mainContent{
+.mainContent {
     grid-template-areas:
         "top top"
         "welcome welcome"
