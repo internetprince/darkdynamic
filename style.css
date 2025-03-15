@@ -120,6 +120,7 @@ p {
     background-color: black;
     grid-area: about;
     justify-content: center;
+    width: 100%;
 }
 
 .about img {
