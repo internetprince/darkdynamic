@@ -54,6 +54,10 @@ html {
 
 }
 
+p {
+    margin: 0px;
+}
+
 .mainContent {
     display: grid;
     width: 100%;
