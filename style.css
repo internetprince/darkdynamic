@@ -86,7 +86,7 @@ html {
     grid-area: welcome;
 }
 
-header.welcome {
+.welcome header {
     border-top: none;
     border-left: none;
     border-right: none;
@@ -109,7 +109,7 @@ div.about {
     
 }
 
-header.about {
+.about header {
     box-sizing: border-box;
     border-top: none;
     border-left: none;
