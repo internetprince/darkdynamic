@@ -28,6 +28,11 @@ https://files.strawcdn.com/straw/cqkbumzSKByCQSCUNVRa.png
 @media (orientation: portrait) {
 
 .mainContent{
+    grid-template-areas:
+        "welcome welcome"
+        "about links";
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
 
 }
 
