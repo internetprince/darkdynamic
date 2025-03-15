@@ -127,7 +127,7 @@ p {
     color: white;
     background-color: black;
     grid-area: about;
-    justify-content: center;
+    justify-content: start;
     width: 100%;
 }
 
