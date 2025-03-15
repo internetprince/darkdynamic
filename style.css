@@ -100,7 +100,7 @@ header.about {
     text-align: center;
 }
 
-top {
+.top {
     box-sizing: border-box;
     width: 100%;
     grid-area: top;
