@@ -77,7 +77,6 @@ p {
     grid-area: top;
     font-family: "Blaka";
     text-align: center;
-    justify-content: center;
     background-color: black;
     color: white;
     font-size: 3rem;
