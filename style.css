@@ -110,7 +110,7 @@ p {
     height: auto;
 }
 
-.welcome header, #about header, .links header {
+.welcome header, .about header, .links header {
     border-top: none;
     border-left: none;
     border-right: none;
@@ -121,7 +121,7 @@ p {
     font-family:"Kelly Slab";
 }
 
-#about {
+.about {
     box-sizing: border-box;
     border: 3px solid white;
     color: white;
@@ -135,7 +135,7 @@ p {
     height: 100%;
 }
 
-#about img {
+.about img {
     box-sizing: border-box;
     aspect-ratio: 1/1;
     
