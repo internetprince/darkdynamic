@@ -108,6 +108,11 @@ p {
     grid-area: about;
 }
 
+img.about {
+    
+    
+}
+
 div.about {
     box-sizing: border-box;
     
