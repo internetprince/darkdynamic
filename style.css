@@ -86,7 +86,7 @@ html {
     grid-area: welcome;
 }
 
-.welcome header, .about header {
+.welcome header, .about header, .links header {
     border-top: none;
     border-left: none;
     border-right: none;
