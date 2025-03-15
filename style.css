@@ -86,6 +86,10 @@ p {
     background-image: url("https://file.garden/Z9NesCn881IguicE/GIF_statuetears_large.gif");
 }
 
+.top p {
+    vertical-align: center;
+}
+
 
 .welcome {
     box-sizing: border-box;
