@@ -153,6 +153,11 @@ div.about {
     grid-area: links;
 }
 
+ul {
+    list-style: none;
+    
+}
+
 div.links {
     box-sizing: border-box;
 }
