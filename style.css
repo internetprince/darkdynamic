@@ -29,10 +29,11 @@ https://files.strawcdn.com/straw/cqkbumzSKByCQSCUNVRa.png
 
 .mainContent{
     grid-template-areas:
+        "top top"
         "welcome welcome"
         "about links";
-    grid-template-rows: 1fr 1fr;
-    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     column-gap: 2em;
     row-gap: 2em;
 
@@ -99,15 +100,10 @@ header.about {
     text-align: center;
 }
 
-section.top {
+top {
     box-sizing: border-box;
     width: 100%;
-
-}
-
-header.top {
-    box-sizing: border-box;
-    width: 100%;
+    grid-area: top;
     font-family: "Blaka";
     text-align: center;
     background-color: black;
