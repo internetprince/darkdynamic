@@ -115,6 +115,7 @@ p {
     color: white;
     background-color: black;
     grid-area: about;
+    justify-content: center;
 }
 
 .about img {
