@@ -33,17 +33,16 @@ https://file.garden/Z9NesCn881IguicE/GIF_monitorcolorsquare.gif
 
 @media (orientation: portrait) {
 
-.mainContent {
-    grid-template-areas:
-        "top top top"
-        "about welcome welcome"
-        "about links links";
-    grid-template-rows: 1fr min-content 1fr;
-    grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 1em;
-    row-gap: 1em;
-
-}
+    .mainContent {
+        grid-template-areas:
+            "top top top"
+            "about welcome welcome"
+            "about links links";
+        grid-template-rows: 1fr min-content 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 1em;
+        row-gap: 1em;
+    }
 
 }
 
