@@ -140,6 +140,8 @@ div.about {
 
 #aboutContainer {
     background-color: navy;
+    width: 100%;
+    height: 100%;
 }
 
 
