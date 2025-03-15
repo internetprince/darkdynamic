@@ -43,6 +43,12 @@ https://file.garden/Z9NesCn881IguicE/GIF_monitorcolorsquare.gif
         column-gap: 1em;
         row-gap: 1em;
     }
+    
+    .about img {
+        width: 50%;
+        height: auto;
+        
+    }
 
 }
 
