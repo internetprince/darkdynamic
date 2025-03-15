@@ -33,6 +33,8 @@ https://files.strawcdn.com/straw/cqkbumzSKByCQSCUNVRa.png
         "about links";
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
+    column-gap: 2em;
+    row-gap: 2em;
 
 }
 
@@ -85,7 +87,6 @@ display: grid;
 
 div.about {
     box-sizing: border-box;
-    margin-top: 2em;
     
 }
 
@@ -129,5 +130,4 @@ header.top {
 
 div.links {
     box-sizing: border-box;
-    margin-top: 2em;
 }
