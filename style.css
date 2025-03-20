@@ -26,9 +26,9 @@ https://file.garden/Z9NesCn881IguicE/GIF_monitorcolorsquare.gif
 @media (orientation: landscape) {
     .mainContent {
         grid-template-areas:
-            "about top top"
+            "about top links"
             "about welcome welcome"
-            ". links links";
+            ". . .";
         grid-template-rows: 1fr min-content 1fr;
         grid-template-columns: 1fr 1fr 1fr;
         column-gap: 1em;
