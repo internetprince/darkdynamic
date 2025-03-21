@@ -185,6 +185,7 @@ ul {
     list-style-type: lower-roman;
     list-style-position: inside;
     text-align: center;
+    color: white;
 }
 
 div.links {
