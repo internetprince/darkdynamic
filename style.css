@@ -34,7 +34,13 @@ https://file.garden/Z9NesCn881IguicE/GIF_monitorcolorsquare.gif
         column-gap: 1em;
         row-gap: 1em;
     }
-
+    
+    .about img {
+        width: 75%;
+        height: auto;
+        max-width: 100%;
+        margin-top: 1em;
+    }
 
 }
  
@@ -54,7 +60,7 @@ https://file.garden/Z9NesCn881IguicE/GIF_monitorcolorsquare.gif
     }
     
     .about img {
-        width: 75%;
+        width: 30%;
         height: auto;
         max-width: 100%;
         margin-top: 1em;
