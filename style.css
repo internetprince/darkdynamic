@@ -182,8 +182,9 @@ p {
 }
 
 ul {
-    list-style: none;
-    
+    list-style-type: lower-roman;
+    list-style-position: inside;
+    text-align: center;
 }
 
 div.links {
