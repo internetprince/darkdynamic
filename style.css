@@ -186,6 +186,7 @@ ul {
     list-style-position: inside;
     text-align: center;
     color: white;
+    font-family: "Bytesized", monospace;
 }
 
 div.links {
